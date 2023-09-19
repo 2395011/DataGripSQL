@@ -1,0 +1,2 @@
+# DataGripSQL
+Learning DataGrip + SQL 
